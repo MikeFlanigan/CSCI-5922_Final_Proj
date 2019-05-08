@@ -1,0 +1,14 @@
+ongoing list of requirements as I think of them
+
+run on linux
+
+python 3...
+
+tensorflow ....
+
+keras...
+
+goal is not for anyone to repeat this with the same data? 
+if people do want to do that they'd need the same ROS etc stuff and my scripts
+
+
